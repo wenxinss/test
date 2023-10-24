@@ -64,7 +64,7 @@
                 <artifactId>lombok</artifactId>
                 <version>${org.projectlombok.version}</version>
             </dependency>
-            <!-- mapstruct 代码生成器，简化java bean之间的映射 -->
+            <!-- mapstruct 代码生成器，简化java bean之间的映射    -->
             <dependency>
                 <groupId>org.mapstruct</groupId>
                 <artifactId>mapstruct-jdk8</artifactId>
